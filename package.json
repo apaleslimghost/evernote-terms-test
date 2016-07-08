@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@quarterto/terms": "^1.0.0",
+    "enex-parser": "^1.0.1"
+  }
+}
